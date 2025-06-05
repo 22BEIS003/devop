@@ -1,1 +1,3 @@
-# devop
+node_modules/
+.env
+
